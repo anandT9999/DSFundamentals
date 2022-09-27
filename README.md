@@ -6,15 +6,19 @@ Numpy and Pandas are one of the most important building blocks of knowledge to g
 
 * Average Minimum
 * Average Maximum
-Mean function
-Head,Tail,Describe,Info,Dropna
+* Mean function
+* Head
+* Tail
+* Describe
+* Info
+* Dropna
 
 ## Numpy 
 
-Linespace
-Repeat
-Random
+* Linespace
+* Repeat
+* Random
 
 ## MATPLOTLIB
 
-ScatterPlot
+* ScatterPlot
