@@ -4,8 +4,8 @@ Numpy and Pandas are one of the most important building blocks of knowledge to g
 
 ## Pandas
 
-Average Minimum
-Average Maximum
+* Average Minimum
+* Average Maximum
 Mean function
 Head,Tail,Describe,Info,Dropna
 
